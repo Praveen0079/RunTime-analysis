@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Search_Comparison2 {
     public static void main(String[] args) {
-        int[] sizes = {1000, 100000, 1000000}; // Dataset sizes
+        int[] sizes = {1000, 100000, 1000000}; // Dataset sizes 
         Random rand = new Random();
 
         for (int size : sizes) {
